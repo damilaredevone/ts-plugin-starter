@@ -9,8 +9,8 @@ devDependencies:
     specifier: 1.5.2
     version: 1.5.2
   '@types/node':
-    specifier: 18.16.5
-    version: 18.16.5
+    specifier: 18.16.19
+    version: 18.16.19
   bumpp:
     specifier: 9.1.1
     version: 9.1.1
@@ -256,8 +256,8 @@ packages:
       fastq: 1.13.0
     dev: true
 
-  /@types/node@18.16.5:
-    resolution: {integrity: sha512-seOA34WMo9KB+UA78qaJoCO20RJzZGVXQ5Sh6FWu0g/hfT44nKXnej3/tCQl7FL97idFpBhisLYCTB50S0EirA==}
+  /@types/node@18.16.19:
+    resolution: {integrity: sha512-IXl7o+R9iti9eBW4Wg2hx1xQDig183jj7YLn8F7udNceyfkbn1ZxmzZXuak20gR40D7pIkIY1kYGx5VIGbaHKA==}
     dev: true
 
   /acorn@8.10.0:
